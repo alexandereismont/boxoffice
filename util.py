@@ -1,0 +1,1 @@
+def runtime_to_minutes(runtime: str):    rt_split = runtime.split()    if len(rt_split) == 4:        hours = int(rt_split[0])        minutes = int(rt_split[2])        return hours * 60 + minutes    else:        return int(rt_split[0]) * 60

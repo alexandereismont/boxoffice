@@ -1,0 +1,6 @@
+streamlit
+plotly
+spyder
+python-keycloak
+extra-streamlit-components
+jwt
